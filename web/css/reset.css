@@ -1,0 +1,19 @@
+* {margin:0; padding:0; outline:none; font-family: Arial,Tahoma,Verdana,Geneva,Helvetica,sans-serif;}
+hr {display:none;}
+html {overflow-y:scroll; font-size:100.01%;}
+html, body {height:100%;}
+body {height:100%;}
+body a {text-decoration:none;}
+body a:hover {text-decoration:none;}
+body a img {border:none;}
+body ul {float:left;}
+body ul li {float:left; list-style:none;}
+body fieldset {border:0; float:left;}
+body fieldset legend {display:none;}
+body fieldset input[type=text], body fieldset textarea {padding:2px 4px;}
+body fieldset input, body fieldset select, body fieldset textarea {outline:none; border:1px solid #DBE0E6; font-size:16px; color:#333; border-top:1px solid #ABABB3; border-right:1px solid #ABABB3;}
+body fieldset input[type=radio], body fieldset input[type=checkbox] {border:0;}
+
+.fr { float:right;}
+.fl { float:left;}
+

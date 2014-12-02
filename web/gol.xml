@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CaseLista>
+	<Case id="gol">
+		<Projeto>Gol Linhas Aéreas</Projeto>
+		<Agencia>E-Deploy</Agencia>
+		<Atuacao>MOBILE, VENDAS ONLINE e WEBCHECKIN (Front-End e C#)</Atuacao>
+		<Link>http://compre2.voegol.com.br/Search.aspx</Link>
+	</Case>
+	<Case id="azul">
+		<Projeto>Azul Linhas Aéreas</Projeto>
+		<Agencia>E-Deploy</Agencia>
+		<Atuacao>VENDAS ONLINE E MANUTENÇÃO (Front-End)</Atuacao>
+		<Link>http://viajemais.voeazul.com.br/RetrieveBooking.aspx</Link>
+	</Case>
+	<Case id="nestle">
+		<Projeto>Nestlé Mais Divertido</Projeto>
+		<Agencia>Tribo Interactive</Agencia>
+		<Atuacao>Front-End Completo</Atuacao>
+		<Link>http://www.nestle.com.br/maisdivertido/</Link>
+	</Case>
+	<Case id="dizpara">
+		<Projeto>Dizpara</Projeto>
+		<Agencia>Grupo LTM - Webprovider/Casanova</Agencia>
+		<Atuacao>Front-End Completo</Atuacao>
+		<Link>http://www.dizpara.com.br</Link>
+	</Case>
+	<Case id="locomotiva">
+		<Projeto>Locomotiva</Projeto>
+		<Agencia>Grupo LTM - Webprovider/Casanova</Agencia>
+		<Atuacao>Front-End Completo</Atuacao>
+		<Link>http://www.locomotivane.com.br/</Link>
+	</Case>
+	<Case id="sesc">
+		<Projeto>Sesc Dia do Desafio</Projeto>
+		<Agencia>Tribo Interactve</Agencia>
+		<Atuacao>Front-End</Atuacao>
+		<Link>http://ww2.sescsp.org.br/diadodesafio/</Link>
+	</Case>
+	<Case id="garoto">
+		<Projeto>Garoto Programa Acelera</Projeto>
+		<Agencia>Grupo LTM - Webprovider/Casanova</Agencia>
+		<Atuacao>Front-End</Atuacao>
+		<Link>http://www.aceleragaroto.com.br/</Link>
+	</Case>
+	<Case id="brastemp">
+		<Projeto>Programa Mais que água</Projeto>
+		<Agencia>Grupo LTM - Webprovider/Casanova</Agencia>
+		<Atuacao>Front-End</Atuacao>
+		<Link>http://www.maisqueagua.com.br//</Link>
+	</Case>
+
+</CaseLista>
